@@ -1,0 +1,29 @@
+h1 {
+    outline: 1px solid brown;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+h2 {
+    outline: 1px solid brown;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p {
+    outline: 1px solid green;
+}
+b {
+    outline: 1px dotted purple;
+}
+li {
+    outline: 1px solid orange;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+img {
+    outline: 5px dotted royalblue;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10%;
+}
